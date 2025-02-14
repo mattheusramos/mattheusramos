@@ -1,12 +1,36 @@
-### Matheus Ramos
+# 👋 Olá! Seja bem-vindo ao meu GitHub! 🚀  
 
-- 👩🏻‍💻 Estudante de Desenvolvimento de Software
-- 👩🏻‍🏫 Sistemas de Informação
+Sou um desenvolvedor apaixonado por tecnologia e programação, sempre buscando aprender e evoluir.  
 
-  
-## Contatos:
+---
 
-<div>
-<a href = "mailto:matheuscruz1109@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/matheus-ramos-cruz/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
-</div>
+## 💻 Sobre Mim  
+
+- 🎯 **Focado em desenvolvimento de software** e **boas práticas de código**.  
+- 📚 Sempre aprendendo novas tecnologias e aprimorando minhas habilidades.  
+- 🌍 **Inglês avançado** para comunicação e leitura técnica.  
+- 🔍 Explorando novas soluções e aprimorando minha lógica de programação.  
+
+---
+
+## 🚀 Tecnologias e Ferramentas  
+
+### 📌 **Linguagens e Desenvolvimento**  
+- 💻 **C#**  
+- 🌐 **HTML, CSS, JavaScript**  
+- 🗄️ **SQL (básico)**  
+
+### 🛠 **Ferramentas e Versionamento**  
+- 🔗 **Git & GitHub**  
+- 🛠 **SourceTree**  
+- ☁️ **Azure DevOps**  
+
+---
+
+## 📫 Como me encontrar?  
+
+📧 **E-mail:** [seuemail@email.com](mailto:seuemail@email.com)  
+🔗 **LinkedIn:** [seu-linkedin](https://www.linkedin.com/in/seu-usuario/)  
+
+Sinta-se à vontade para explorar meus repositórios e trocar ideias!  
+Vamos construir algo incrível juntos! 🚀✨  
