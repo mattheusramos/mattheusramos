@@ -17,7 +17,7 @@ Sou um desenvolvedor apaixonado por tecnologia e programação, sempre buscando 
 ## 🚀 Tecnologias e Ferramentas  
 
 ### 📌 **Linguagens e Desenvolvimento**  
-- 💻 **C#**  
+- 💻 **C# - .Net**  
 - 🌐 **HTML, CSS, JavaScript, PHP**  
 - 🗄️ **SQL**  
 - 🤖 **Imersão de Dados com I.A**  
