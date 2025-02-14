@@ -31,8 +31,8 @@ Sou um desenvolvedor apaixonado por tecnologia e programação, sempre buscando 
 
 ## 📫 Como me encontrar?  
 
-📧 **E-mail:** [seuemail@email.com](mailto:matheuscruz1109@gmail.com)  
-🔗 **LinkedIn:** [seu-linkedin](https://www.linkedin.com/in/matheus-ramos-cruz/)  
+📧 **E-mail:** [matheuscruz1109@gmail.com](mailto:matheuscruz1109@gmail.com)  
+🔗 **LinkedIn:** [Matheus Ramos](https://www.linkedin.com/in/matheus-ramos-cruz/)  
 
 Sinta-se à vontade para explorar meus repositórios e trocar ideias!  
 Vamos construir algo incrível juntos! 🚀✨  
