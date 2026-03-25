@@ -1,34 +1,30 @@
 # 👋 Olá! Seja bem-vindo ao meu GitHub! 🚀  
 
-Sou um desenvolvedor apaixonado por tecnologia e programação, sempre buscando aprender e evoluir.  
+🚀 Sobre mim
 
----
+Atualmente atuo na area de desenvolvimento mobile, com foco em criação de aplicações nativas para Android e iOS e testes automatizados.
 
-## 💻 Sobre Mim  
-
-- 🎯 **Focado em desenvolvimento de software** e **boas práticas de código**.  
-- 📊 Explorando **Imersão de Dados com Inteligência Artificial**.  
-- 📚 Sempre aprendendo novas tecnologias e aprimorando minhas habilidades.  
-- 🌍 **Inglês avançado** para comunicação e leitura técnica.  
-- 🔍 Explorando novas soluções e aprimorando minha lógica de programação.  
-
----
-
-## 🚀 Tecnologias e Ferramentas  
-
-### 📌 **Linguagens e Desenvolvimento**  
-- 💻 **C# - .Net**  
-- 🌐 **HTML, CSS, JavaScript, PHP**  
-- 🗄️ **SQL**  
-- 🤖 **Imersão de Dados com I.A**  
-
-### 🛠 **Ferramentas e Versionamento**  
-- 🔗 **Git & GitHub**  
-- 🛠 **SourceTree**  
-- ☁️ **Azure DevOps**  
-
----
-
+📱 Desenvolvimento Mobile
+Android
+Java
+Kotlin
+XML
+Jetpack Compose
+iOS
+Swift
+SwiftUI
+UIKit
+🧪 Testes Automatizados
+Appium
+XCUITest
+JUnit
+Maestro
+💡 Experiência
+Desenvolvimento de apps nativos Android e iOS
+Escrita de testes automatizados (UI e unitários)
+Criação de interfaces modernas e responsivas
+Implementação de boas práticas de arquitetura
+Foco em performance, qualidade e experiência do usuário
 ## 📫 Como me encontrar?  
 
 📧 **E-mail:** [matheuscruz1109@gmail.com](mailto:matheuscruz1109@gmail.com)  
