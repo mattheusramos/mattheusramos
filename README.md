@@ -1,49 +1,66 @@
-# **👋 Olá! Seja bem-vindo ao meu GitHub! 🚀**  
+# 👋 Olá, eu sou o Matheus Ramos!
+### **Mobile Software Developer**
 
-🚀 **Sobre mim**
+Desenvolvedor de software focado no ecossistema mobile nativo (Android e iOS). Sou apaixonado por transformar ideias em linhas de código eficientes, criando interfaces fluidas, modernas e de alta performance. Tenho como diferencial uma forte cultura de qualidade, utilizando automação de testes para garantir entregas robustas, escaláveis e resilientes em produção.
 
-Atualmente atuo na area de desenvolvimento mobile, com foco em criação de aplicações nativas para Android e iOS e testes automatizados.
+---
 
-📱 **Desenvolvimento Mobile**
+## 🛠️ Tecnologias & Engenharia
 
-Android:
-Java - 
-Kotlin - 
-XML - 
-Jetpack Compose
+### 📱 Mobile Development
+<p align="left">
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin" />
+  <img src="https://img.shields.io/badge/Jetpack_Compose-4285F4?style=for-the-badge&logo=android&logoColor=white" alt="Compose" />
+  <img src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white" alt="Swift" />
+  <img src="https://img.shields.io/badge/SwiftUI-007ACC?style=for-the-badge&logo=swift&logoColor=white" alt="SwiftUI" />
+</p>
 
-iOS:
-Swift - 
-SwiftUI - 
-UIKit
+* **Android:** Kotlin, Java, Jetpack Compose, XML.
+* **iOS:** Swift, SwiftUI, UIKit.
+* **Arquitetura & Boas Práticas:** Clean Architecture, MVVM, SOLID, Design Patterns.
 
+### 🧪 Qualidade & Automação de Código
+<p align="left">
+  <img src="https://img.shields.io/badge/Maestro-000000?style=for-the-badge&logo=maestro&logoColor=white" alt="Maestro" />
+  <img src="https://img.shields.io/badge/XCUITest-007ACC?style=for-the-badge&logo=apple&logoColor=white" alt="XCUITest" />
+  <img src="https://img.shields.io/badge/Appium-6222C7?style=for-the-badge&logo=appium&logoColor=white" alt="Appium" />
+</p>
 
-🧪 **Testes Automatizados**
+* **Testes de UI & Unitários:** Maestro, XCUITest, Espresso, JUnit.
+* **Mindset:** Desenvolvimento orientado a testes, validação de fluxos críticos e estabilidade de releases.
 
-Appium - 
-XCUITest - 
-JUnit - 
-Maestro
+---
 
+## 💡 Foco em:
 
-💡 **Experiência**
+* **Construção de Apps Nativos:** Desenvolvimento de ponta a ponta focado em performance, consumo otimizado de memória e UI/UX responsiva (seguindo estritamente as diretrizes do Material Design e Human Interface Guidelines).
+* **Manutenibilidade:** Escrita de código limpo, modular e altamente testável, facilitando a evolução contínua do produto.
+* **Integração e APIs:** Consumo de serviços RESTful, persistência de dados local e gerenciamento de estados complexos.
 
-Desenvolvimento de apps nativos Android e iOS
+---
 
-Escrita de testes automatizados (UI e unitários)
+## 📊 GitHub Stats
 
-Criação de interfaces modernas e responsivas
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mattheusramos&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub Stats" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mattheusramos&layout=compact&theme=tokyonight" alt="Top Languages" height="180" />
+</p>
 
-Implementação de boas práticas de arquitetura
+---
 
-Foco em performance, qualidade e experiência do usuário
+## 📫 Meus Contatos
 
+Sinta-se à vontade para entrar em contato!
 
-## 📫 Como me encontrar?  
+<p align="left">
+  <a href="mailto:matheuscruz1109@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  <a href="https://www.linkedin.com/in/matheus-ramos-cruz/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</p>
 
-📧 **E-mail:** [matheuscruz1109@gmail.com](mailto:matheuscruz1109@gmail.com)  
-
-🔗 **LinkedIn:** [Matheus Ramos](https://www.linkedin.com/in/matheus-ramos-cruz/)  
-
-Sinta-se à vontade para explorar meus repositórios e trocar ideias!  
-Vamos construir algo incrível juntos! 🚀✨  
+<p align="center">
+  <b>🚀 Tecnologia é o futuro!</b>
+</p>
