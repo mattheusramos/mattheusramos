@@ -22,12 +22,12 @@ Native mobile software developer focused on the Android and iOS ecosystems. Pass
 ### Code Quality & Automation
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Maestro-000000?style=for-the-badge&logo=maestro&logoColor=white" alt="Maestro" />
+  <img src="https://img.shields.io/badge/Espresso-000000?style=for-the-badge&logo=maestro&logoColor=white" alt="Espresso" />
   <img src="https://img.shields.io/badge/XCUITest-007ACC?style=for-the-badge&logo=apple&logoColor=white" alt="XCUITest" />
   <img src="https://img.shields.io/badge/Appium-6222C7?style=for-the-badge&logo=appium&logoColor=white" alt="Appium" />
 </p>
 
-* **UI & Unit Testing:** Maestro, XCUITest, Espresso, JUnit.
+* **UI & Unit Testing:** XCUITest, Espresso, JUnit.
 * **Mindset:** Test-driven development, critical user flow validation, and release stability.
 
 ---
